@@ -1,6 +1,6 @@
-## Interface: 50001
+## Interface: 50100
 ## Title: Guild Launch Rapid Raid
-## Version: ALPHA 16
+## Version: ALPHA 17
 ## Notes: Rapid Raid
 GL_Data_DKP.lua
 GL_Data_SIGNUPS.lua
